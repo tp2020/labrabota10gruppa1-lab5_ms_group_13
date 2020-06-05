@@ -22,4 +22,4 @@ Here are some guidelines for working with the application:
 Here is some information about the creators of this project:
 - Victor Plesko: stood at the head of the project as a project manager. Carefully monitored the development of the project, helping in all its stages. Participated in the development of project documentation. He was also responsible for testing and the correct operation of the project.
 - Anastasia Katsuba: designed the UML schemes (variant diagrams and class diagrams for console application files). She took an active part in the development of project documentation.
-- Pavel Zhukovsky: developed the database architecture, filling it with data, and developed the main application, including all the necessary functions and the main interface. Participated in the development of project documentation (in particular, this READMME.md).
+- Pavel Zhukovsky: developed the database architecture, filling it with data, and developed the main application, including all the necessary functions and the main interface. Participated in the development of project documentation (in particular, this README.md).
